@@ -1,0 +1,2 @@
+make clean limpa os arquivos
+make cria o objeto de todos os arquvios
